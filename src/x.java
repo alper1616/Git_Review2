@@ -1,5 +1,6 @@
 public class x {
     public static void main(String[] args) {
-        System.out.println("practice addd someting ");
+        System.out.println("practice addd someting 12
+                           ");
     }
 }
